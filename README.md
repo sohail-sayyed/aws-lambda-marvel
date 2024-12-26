@@ -40,6 +40,13 @@ A data pipeline for scraping Marvel film data using Wikipedia and OMDB via REST 
 ```
 ---
 
+## 🏗️ Architecture Overview:
+
+### Workflow Diagram
+
+![Airflow-AWS-SPotify-ETL-Pipeline](https://drive.google.com/uc?export=view&id=1VMri7GKqztxXm2Ay99LzMbdSwL5Kr4AX)
+
+
 ## 🚀 How It Works
 
 1. Wikipedia Data Extraction:
